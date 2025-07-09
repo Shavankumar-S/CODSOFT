@@ -25,7 +25,7 @@ Internship:
 - Improved Python coding and data analysis skills  
 - Exposure to real-world problem solving
 
-📬 Contact
+📬 Contact:
 Shavankumar S
-LinkedIn Profile 
-Email: sivakumar05424@gmail.com
+-LinkedIn Profile 
+-Email: sivakumar05424@gmail.com
