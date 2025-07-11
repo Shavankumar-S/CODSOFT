@@ -1,10 +1,10 @@
-🎬 Movie Genre Classification - CODSOFT Internship
+# 🎬 Movie Genre Classification - CODSOFT Internship
 This repository contains my solution for Task 1 of the Machine Learning Internship at CodSoft.
 
-📝 Problem Statement
+# 📝 Problem Statement
 Create a machine learning model that can predict the genre of a movie based on its plot summary or textual description.
 
-🧠 Approach
+# 🧠 Approach
 
 1.Preprocessing movie plot descriptions
 
@@ -16,5 +16,6 @@ Create a machine learning model that can predict the genre of a movie based on i
 
 5.Handling imbalanced genres in real-world datasets
 
-🔧 Tech Stack
+# 🔧 Tech Stack
+
 Python Pandas, NumPy Scikit-learn Matplotlib, Seaborn TF-IDF Vectorizer
