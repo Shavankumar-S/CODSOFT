@@ -1,9 +1,9 @@
 
-📩 Spam SMS Detection — CodSoft Internship Task 4
+#📩 Spam SMS Detection — CodSoft Internship Task 4
 
 This project involves building a machine learning model to classify SMS messages as either Spam or Ham (Legitimate) using natural language processing (NLP) techniques. The goal is to prevent spam messages from reaching users by training and evaluating multiple classifiers on a labeled dataset.
 
-🔍 Problem Statement
+#🔍 Problem Statement
 
 With the increasing volume of mobile text communication, detecting spam SMS is crucial to ensure security and user trust. This project applies classical machine learning algorithms combined with text feature extraction techniques to develop a reliable spam detection system.
 
