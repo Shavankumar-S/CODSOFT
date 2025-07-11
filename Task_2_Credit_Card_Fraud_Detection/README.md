@@ -27,13 +27,13 @@ The goal is to classify transactions as *fraudulent or legitimate* using various
 4. Evaluation using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix
 
 
-📈 Results
+# 📈 Results
 
 - Successfully classified fraudulent transactions with good performance.
 - Random Forest achieved the highest accuracy and recall.
 
 
-🛠️ Tools & Libraries
+# 🛠️ Tools & Libraries
 
 - Python, Pandas, NumPy
 - Scikit-learn, Matplotlib, Seaborn
