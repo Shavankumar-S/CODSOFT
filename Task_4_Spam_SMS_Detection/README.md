@@ -12,3 +12,11 @@ With the increasing volume of mobile text communication, detecting spam SMS is c
 Python Pandas, NumPy Scikit-learn Matplotlib, Seaborn TF-IDF (Term Frequency - Inverse Document Frequency) NLP 
 
 preprocessing Classification Models: Naive Bayes Logistic Regression Support Vector Machine (SVM)
+
+📌 How to Run
+
+# Install required libraries
+pip install pandas scikit-learn matplotlib seaborn
+
+# Run the main Python script
+python spam_sms_detection.py
