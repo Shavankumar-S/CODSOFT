@@ -5,10 +5,15 @@ This repository contains my solution for Task 1 of the Machine Learning Internsh
 Create a machine learning model that can predict the genre of a movie based on its plot summary or textual description.
 
 🧠 Approach
+
 1.Preprocessing movie plot descriptions
+
 2.Feature extraction using TF-IDF
+
 3.Classification using Logistic Regression
+
 4.Evaluation using accuracy, classification report, and confusion matrix
+
 5.Handling imbalanced genres in real-world datasets
 
 🔧 Tech Stack
